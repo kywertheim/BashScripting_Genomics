@@ -6,5 +6,5 @@ About:
 2. Some of the commands are redundant. For example, 'cut -f1,4 apple.genes | grep "-" | uniq | wc -l' and 'cut -f1,4 apple.genes | sort -u | cut -f2 | sort | uniq -c' generate equivalent results.
 
 Files:
-1. gencommand_proj1_data.tar.gz is the archive file.
-2. analysis.sh should be placed in the directory created by unzipping the gz file.
+1. 'gencommand_proj1_data.tar.gz' is the archive file.
+2. 'analysis.sh' should be placed in the directory created by unzipping the gz file.
